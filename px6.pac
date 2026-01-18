@@ -34,6 +34,6 @@ function FindProxyForURL(url, host) {
 
     ) {
         return PROXY;
-    }shExpMatch
+    }
     return "DIRECT";
 }
